@@ -1,6 +1,6 @@
 
 /* Class = "NSButtonCell"; title = "Import"; ObjectID = "3Kr-1X-5AZ"; */
-"3Kr-1X-5AZ.title" = "Import";
+"3Kr-1X-5AZ.title" = "ورود اطلاعات";
 
 /* Class = "NSTextFieldCell"; title = "-"; ObjectID = "5My-Lz-UmR"; */
 "5My-Lz-UmR.title" = "-";
@@ -12,28 +12,28 @@
 "CUy-rX-LgD.title" = "لغو";
 
 /* Class = "NSButtonCell"; title = "Export"; ObjectID = "Dr8-2D-to4"; */
-"Dr8-2D-to4.title" = "Export";
+"Dr8-2D-to4.title" = "ذخیره اطلاعات";
 
 /* Class = "NSButtonCell"; title = "Fix if CMD+SPACE not work (experimental)"; ObjectID = "I7x-fY-0vx"; */
-"I7x-fY-0vx.title" = "Fix if CMD+SPACE not work (experimental)";
+"I7x-fY-0vx.title" = "تعمبر برای وقتی که CMD+SPACE کار نمی‌کند (آزمایشی)";
 
 /* Class = "NSTextFieldCell"; title = "-"; ObjectID = "IhC-d3-H6r"; */
 "IhC-d3-H6r.title" = "-";
 
 /* Class = "NSTableColumn"; headerCell.title = "Delay (ms), suggest 40"; ObjectID = "JiA-hI-REz"; */
-"JiA-hI-REz.headerCell.title" = "Delay (ms), suggest 40";
+"JiA-hI-REz.headerCell.title" = "تاخیر (ms), مقدار پیشنهادی: 40";
 
 /* Class = "NSWindow"; title = "Unshaky Preference"; ObjectID = "KI8-Ox-xeb"; */
-"KI8-Ox-xeb.title" = "Unshaky Preference";
+"KI8-Ox-xeb.title" = "پیکربندی Unshaky";
 
 /* Class = "NSTextFieldCell"; title = "-"; ObjectID = "NxQ-OB-lir"; */
 "NxQ-OB-lir.title" = "-";
 
 /* Class = "NSTextFieldCell"; title = "Set ALL to (ms)"; ObjectID = "Qnt-tS-QWb"; */
-"Qnt-tS-QWb.title" = "Set ALL to (ms)";
+"Qnt-tS-QWb.title" = "تنظیم همه به (ms)";
 
 /* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "VCg-rU-JrG"; */
-"VCg-rU-JrG.title" = "Item 3";
+"VCg-rU-JrG.title" = "مورد سوم";
 
 /* Class = "NSTextFieldCell"; title = "-"; ObjectID = "Vl3-75-cL7"; */
 "Vl3-75-cL7.title" = "-";
