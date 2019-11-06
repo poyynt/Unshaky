@@ -39,28 +39,28 @@
 "Vl3-75-cL7.title" = "-";
 
 /* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "WY9-It-Jdo"; */
-"WY9-It-Jdo.title" = "Item 1";
+"WY9-It-Jdo.title" = "مورد اول";
 
 /* Class = "NSButtonCell"; title = "Aggressive mode (experimental)"; ObjectID = "Zqq-UB-oIK"; */
-"Zqq-UB-oIK.title" = "Aggressive mode (experimental)";
+"Zqq-UB-oIK.title" = "حالت پرخاشگر (آزمایشی)";
 
 /* Class = "NSButtonCell"; title = "Paste"; ObjectID = "acO-QS-DTH"; */
-"acO-QS-DTH.title" = "Paste";
+"acO-QS-DTH.title" = "پیست";
 
 /* Class = "NSTableColumn"; headerCell.title = "Key"; ObjectID = "asf-bP-xrf"; */
-"asf-bP-xrf.headerCell.title" = "Key";
+"asf-bP-xrf.headerCell.title" = "کلید";
 
 /* Class = "NSButtonCell"; title = "Ignore external keyboard (experimental)"; ObjectID = "dE9-oM-Tqa"; */
-"dE9-oM-Tqa.title" = "Ignore external keyboard (experimental)";
+"dE9-oM-Tqa.title" = "نادیده گرفتن کیبورد اکسترنال (آزمایشی)";
 
 /* Class = "NSButtonCell"; title = "Set"; ObjectID = "juW-NR-znR"; */
-"juW-NR-znR.title" = "Set";
+"juW-NR-znR.title" = "تنظیم";
 
 /* Class = "NSButtonCell"; title = "Cancel"; ObjectID = "mDf-Gh-GmX"; */
 "mDf-Gh-GmX.title" = "لغو";
 
 /* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "psD-gB-aHV"; */
-"psD-gB-aHV.title" = "Item 2";
+"psD-gB-aHV.title" = "مورد دوم";
 
 /* Class = "NSButtonCell"; title = "Import"; ObjectID = "yJt-he-X2q"; */
-"yJt-he-X2q.title" = "Import";
+"yJt-he-X2q.title" = "ورود اطلاعات";
